@@ -10,7 +10,7 @@ from butler_finder import ButlerFinder
 
 if __name__ == "__main__":
     # Focus RuneLite window
-    window_name = "RuneLite - OIjake"
+    window_name = "RuneLite - YOUR ACCOUNT NAME"
     hwnd = win32gui.FindWindow(None, window_name)
     if hwnd == 0:
         raise Exception(f"Window '{window_name}' not found.")
@@ -88,3 +88,4 @@ if __name__ == "__main__":
     finally:
         counter.stop()
         print("Exiting cleanly.")
+
