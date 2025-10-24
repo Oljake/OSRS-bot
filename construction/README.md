@@ -88,6 +88,17 @@ python main.py
 
 ---
 
+## Setup
+
+- 1440p
+- Game client layout: Fixed - Classic layout
+
+- Look north
+- Zoom all the way in and look from above
+
+<img width="1695" height="904" alt="image" src="https://github.com/user-attachments/assets/f0de3639-549a-4dff-8944-b078bbf76def" />
+
+
 ## Notes
 
 - Works best on a screen resolution matching the template regions.  
